@@ -1,0 +1,3 @@
+Respuesta al ping de las distintas ips: 
+
+10.227.120.1 | X 
